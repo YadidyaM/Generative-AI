@@ -1,6 +1,6 @@
 # 🌟 YADI - Your AI-Driven Interface
 
-![YADI Banner](https://postimg.cc/62xHpyRH)
+![YADI Banner]((https://www.canva.com/design/DAGbgs2AR9Y/otl2BwYu3nkgqy_7A83qtQ/view?utm_content=DAGbgs2AR9Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c33354630))
 
 **YADI** is a cutting-edge, web-based voice assistant powered by 2 callback LLM designed for seamless and intuitive interaction. Built with modular design principles, YADI offers developers and users an unparalleled experience in speech recognition, synthesis, and interaction.
 
