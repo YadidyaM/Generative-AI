@@ -1,5 +1,5 @@
 # **YADI - Your AI Data Intelligence**  
-
+(https://www.canva.com/design/DAGbhGQwjYI/m43YK9DGR71OGQCPF2l1Ww/view?utm_content=DAGbhGQwjYI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9547f5de4f)
 YADI is an interactive web application designed to simplify synthetic data generation. Powered by Meta's advanced **Llama 3** model, YADI enables users to generate synthetic datasets with ease, visualize them on a live dashboard, and experience a cutting-edge **3D interactive frontend**.  
 
 ---  
